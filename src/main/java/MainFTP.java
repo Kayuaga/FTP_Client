@@ -16,6 +16,6 @@ public class MainFTP {
 			throws SocketException, IOException, IllegalStateException, FTPIllegalReplyException, FTPException,
 			FTPDataTransferException, FTPAbortedException, FTPListParseException {
 		// TODO Auto-generated method stub
-		FTPUsage.Interface();
+		FTPUsage.usage();
 	}
 }
